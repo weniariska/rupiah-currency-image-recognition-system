@@ -59,3 +59,18 @@
   </li>
   </ul>
 </div>
+
+<div id="tampilan">
+  <hr>
+  <h3>Screenshoot tampilan GUI aplikasi</h3>
+  Halaman menu home <br>
+  <img width="400" alt="image" src="https://user-images.githubusercontent.com/96558726/184838647-2952a804-46db-4d01-831f-a705500bff05.png"> <br>
+  Input directory image yang ingin di klasifikasi <br>
+  <img width="395" alt="image" src="https://user-images.githubusercontent.com/96558726/184838800-0ef2c0c1-8c61-41cc-8d5b-b80f75ee2308.png"><br>
+  Hasil kalsifikasi <br>
+  <img width="398" alt="image" src="https://user-images.githubusercontent.com/96558726/184838886-2723d9ea-379a-479e-9b0f-ba185d24d84e.png"><br>
+  Halaman menu dataset <br>
+  <img width="400" alt="image" src="https://user-images.githubusercontent.com/96558726/184839009-9f59a895-c6e3-4246-9d42-4e86ca03d640.png"><br>
+  Halaman menu plot <br>
+  <img width="404" alt="image" src="https://user-images.githubusercontent.com/96558726/184839121-1a7b9082-13b2-4505-9f47-f2a405505e03.png"><br>
+</div>
