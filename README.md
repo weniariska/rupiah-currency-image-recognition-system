@@ -26,31 +26,31 @@
   <li>
     Ekstrasi Ciri <br>
     Metode ekstrasi ciri yang digunakan pada penelitian ini adalah Local Binary Pattern (LBP). Terdapat beberapa 
-    tahapan dalam penggunaan LBP, yaitu sebagai berikut.
+    tahapan dalam penggunaan LBP, yaitu sebagai berikut. <br>
     1. Lakukan inisialisasi terhadap (x, y) dan varibel nilai yang berguna sebagai penampung nilai yang nantinya 
-    menggantikan nilai piksel tengah.
+    menggantikan nilai piksel tengah. <br>
     2. Menggunakan kondisi x > 0 dan x < lebar citra dikurang 1 dan y > 0 dan y < tinggi citra dikurang 1.
     3. Apabila kondisi tersebut terpenuhi maka ambil nilai piksel tengah ic dan piksel ketetanggaan dari i7 
-    sampai i0.
+    sampai i0. <br>
     4. Lakukan perbandingan nilai piksel tengah ic dengan piksel ketetanggaan, apabila nilai ic >= piksel 
     ketetanggaan maka dilakukan penjumlahan pada variabel nilai sesuai dengan bobot masing-masing piksel 
-    ketetanggaan.
-    5. Ubah semua nilai warna pada piksel (x,y) dengan value pada variabel nilai.
+    ketetanggaan. <br>
+    5. Ubah semua nilai warna pada piksel (x,y) dengan value pada variabel nilai. <br>
     6. Lakukan penjumlahan nilai y dan memproses piksel selanjutnya. Setelah semua piksel diproses maka 
-    akan terbentuk citra hasil LBP.
+    akan terbentuk citra hasil LBP. <br>
   </li>
   <li>
     Klasifikasi <br>
     Metode klasifikasi yang digunakan pada penelitian ini adalah Naïve Bayes. Terdapat beberapa tahapan dalam 
-    penggunaan Naïve Bayes, yaitu sebagai berikut.
-    1. Mencari probabilitas setiap atribut terhadap kelas
-    2. Menetapkan data sampel yang inigin diuji kelasnya ke dalam variabel, misal X
-    3. Menetapkan hipotests bahwa X adalah data dengan kelas label tertentu kedalma variabel, misal Y
-    4. Cari prior yaitu peluang dari hipotesis Y
-    5. Cari evidence yaitu peluang data sampel yang diamati
-    6. Cari likelihood yaitu peluang data sampel X, bila diasumsikan bahwa hipotesis Y benar
+    penggunaan Naïve Bayes, yaitu sebagai berikut. <br>
+    1. Mencari probabilitas setiap atribut terhadap kelas <br>
+    2. Menetapkan data sampel yang inigin diuji kelasnya ke dalam variabel, misal X <br>
+    3. Menetapkan hipotests bahwa X adalah data dengan kelas label tertentu kedalma variabel, misal Y <br>
+    4. Cari prior yaitu peluang dari hipotesis Y <br>
+    5. Cari evidence yaitu peluang data sampel yang diamati <br>
+    6. Cari likelihood yaitu peluang data sampel X, bila diasumsikan bahwa hipotesis Y benar <br>
     7. Untuk klasifikasi, cari posterior dengan nilai terbesar yang didapat dari perhitumgan likelihood dikali 
-    prior dibagi evidence
+    prior dibagi evidence <br>
   </li>
   <li>
     Evaluasi <br>
