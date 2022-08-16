@@ -13,7 +13,9 @@
   <li>
     Akuisisi Data <br>
     Bagian akuisisi data digunakan untuk memperoleh data latih serta data uji untuk penelitian. Dalam 
-    pengambilannya, peneliti mengambil gambar uang yang difoto di atas kertas HVS. 
+    pengambilannya, peneliti mengambil gambar uang yang difoto di atas kertas HVS. <br>
+    Contoh : <br>
+    <img width="50%" alt="image" src="https://user-images.githubusercontent.com/96558726/184837924-1ef0b3fc-b774-47da-ab13-7ec399e42fd3.jpg"> <br>
   </li>
   <li>
     Konversi Grayscale <br>
