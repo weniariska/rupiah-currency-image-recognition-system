@@ -1,7 +1,6 @@
 # Rupiah Currency Image Recognition System
 
 <div id="deskripsi">
-  <hr>
   <h3>Deskripsi Singkat Project</h3>
   Pada project ini, akan dilakukan identifikasi nilai mata uang rupiah dengan menggabungkan metode ekstrasi ciri 
   Local Binary Pattern dan metode klasifikasi Naïve Bayes. Serta untuk pengukuran akurasi identifikasi dilakukan dengan metode evaluasi K-Fold Cross Validation. 
