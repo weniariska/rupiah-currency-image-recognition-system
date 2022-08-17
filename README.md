@@ -75,3 +75,4 @@
   Halaman menu plot <br>
   <img width="404" alt="image" src="https://user-images.githubusercontent.com/96558726/184839121-1a7b9082-13b2-4505-9f47-f2a405505e03.png"><br>
 </div>
+
